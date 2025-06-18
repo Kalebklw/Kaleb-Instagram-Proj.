@@ -1,0 +1,152 @@
+body{
+    background-color: rgba(128, 128, 128, 0.185);
+    margin: 0;
+    font-family: "Roboto";
+    margin-bottom: 50px;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+header{
+    background: white;
+    padding: 10px;
+}
+
+header h1{
+    margin: 0;
+}
+
+.h1Container{
+    width: 600px;
+    margin: auto;
+}
+
+.FirstPostContainer{
+    width: 600px;
+    margin: auto;
+}
+
+.FirstPost{
+    background: white;
+    margin-top: 10px;
+}
+
+div.FirstPost .FirstPostHeader div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+
+div.FirstPost .FirstPostHeader div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: gray;
+}
+
+.FirstPost h2, p{
+    padding: 10px;
+    margin: 0;
+}
+
+.FirstPost img{
+    width: 100%;
+}
+
+.SecondPostContainer{
+    width: 600px;
+    margin: auto;
+}
+
+.SecondPost{
+    background: white;
+    margin-top: 10px;
+}
+
+div.SecondPost .SecondPostHeader div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+
+div.SecondPost .SecondPostHeader div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: gray;
+}
+
+.SecondPost h2, p{
+    padding: 10px;
+    margin: 0;
+}
+
+.SecondPost img{
+    width: 100%;
+}
+
+.ThirdPostContainer{
+    width: 600px;
+    margin: auto;
+}
+
+.ThirdPost{
+    background: white;
+    margin-top: 10px;
+}
+
+div.ThirdPost .ThirdPostHeader div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+
+div.ThirdPost .ThirdPostHeader div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: gray;
+}
+
+.ThirdPost h2, p{
+    padding: 10px;
+    margin: 0;
+}
+
+.ThirdPost img{
+    width: 100%;
+}
+
+.FourthPostContainer{
+    width: 600px;
+    margin: auto;
+}
+
+.FourthPost{
+    background: white;
+    margin-top: 10px;
+}
+
+div.FourthPost .FourthPostHeader div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+
+div.FourthPost .FourthPostHeader div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: gray;
+}
+
+.FourthPost h2, p{
+    padding: 10px;
+    margin: 0;
+}
+
+.FourthPost img{
+    width: 100%;
+}
